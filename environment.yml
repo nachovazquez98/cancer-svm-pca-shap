@@ -12,5 +12,4 @@ dependencies:
   - anaconda-navigator
   - navigator-updater
   - seaborn
-  - shap
-prefix: /home/nacho/anaconda3
+  - shapprefix: /home/nacho/anaconda3
