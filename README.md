@@ -1,2 +1,2 @@
 # cancer-svm-pca-shap
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nachovazquez98/cancer-svm-pca-shap/HEAD)
+<script src="https://gist.github.com/nachovazquez98/c0ba68dec298932893b0cf6083550c17.js"></script>
