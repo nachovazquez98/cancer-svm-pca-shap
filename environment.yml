@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+<<<<<<< HEAD
   - _ipyw_jlab_nb_ext_conf=0.1.0=py39h06a4308_0
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=4.5=1_gnu
@@ -396,3 +397,16 @@ dependencies:
   - zope.interface=5.4.0=py39h7f8727e_0
   - zstd=1.4.9=haebb681_0
 prefix: /home/nacho/anaconda3
+=======
+  - conda
+  - python=3.9
+  - conda-env
+  - conda-build
+  - conda-verify
+  - _ipyw_jlab_nb_ext_conf
+  - anaconda==2021.11=py39_0
+  - anaconda-navigator
+  - navigator-updater
+  - seaborn
+  - shapprefix: /home/nacho/anaconda3
+>>>>>>> 8820276e5650b31ea09d0351faa7352b9ba2ddbf
